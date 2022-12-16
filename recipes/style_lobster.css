@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #111;
+    color: #fff;
+}
+
+.home {
+    color:aqua;
+}
+
+.home:hover {
+    color: blueviolet;
+}
