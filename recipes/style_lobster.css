@@ -7,8 +7,18 @@ body {
 
 .home {
     color:aqua;
+    font-size: 30px;
+    float: right;
 }
 
 .home:hover {
     color: blueviolet;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+ul {
+    text-decoration: none;
 }
